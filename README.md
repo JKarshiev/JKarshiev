@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JKarshiev
 - 👀 I’m interested in Java, AndroidStudio, Dart and Flutter
-- 🌱 I’m currently learning Java and Spring Framework
+- 🌱 I’m currently learning Java and Android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram/jaloliddinqarshiev or @Karshiev on Telegram 
 
